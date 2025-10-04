@@ -56,13 +56,12 @@ Project structure (typical)
 - index.html — main game page
 - styles.css — styling and responsive layout
 - game.js — game logic (controls, collisions, audio)
-- assets/ — images / screenshots / audio (optional)
+- assets/ - images/screenshots
 
 ## Usage
 
 Controls
 - Desktop: Arrow keys (Left / Right / Up / Down)
-- Mobile: On-screen buttons (tap to move)
 - Objective: Collect the required number of coins to progress. Avoid obstacles to prevent crashes.
 
 Example playthrough
@@ -87,10 +86,6 @@ Screenshots
 - Recommended quick test: run the simple Python server above and open the game in the browser.
 - Use the browser DevTools to inspect console logs, debug game loop and collision logic.
 
-Optional enhancements you can add
-- Unit tests for isolated logic (e.g., collision detection functions)
-- Better asset management and preloaders
-- Mobile UI/UX improvements and touch gestures
 
 ## Contribution Guidelines
 
