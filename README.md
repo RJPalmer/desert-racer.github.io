@@ -72,10 +72,14 @@ Example playthrough
 4. After collecting the required coins, the next level begins (difficulty increases).
 
 Screenshots
-If you have screenshots, add them to `assets/screenshots/` and reference them here:
-![Gameplay screenshot](assets/screenshots/screenshot1.png)
+![Gameplay screenshot](assets/screenshots/desrace_terms.jpeg)
 
-(If no screenshots are available, consider adding one by taking a browser screenshot and placing it in the folder above.)
+![Gameplay screenshot](assets/screenshots/desrace_main_lvl1.jpeg)
+
+![Gameplay screenshot](assets/screenshots/desrace_crash.jpeg)
+
+![Gameplay screenshot](assets/screenshots/desrace_main_lvl2.jpeg)
+
 
 ## Development & Testing
 
